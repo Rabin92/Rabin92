@@ -3,7 +3,7 @@
 I'm an aspiring web developer who is passionate about web development. 
 I enjoy building websites that is responsive, interactive and easy to use. I have an eagerness to learn new things, develop my knowledge and build up my skills.  
 
-## Tools and Technologies 
+## Languages and Tools 
 
 ![](https://img.shields.io/badge/Language%20-HTML-orange)
 ![](https://img.shields.io/badge/Language%20-CSS-blue)
