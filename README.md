@@ -5,8 +5,6 @@ I enjoy building websites that is responsive, interactive and easy to use. I hav
 
 ## Tools and Technologies 
 
-I have used the following tools & technologies to build several projects:
-
 ![](https://img.shields.io/badge/Language%20-HTML-orange)
 ![](https://img.shields.io/badge/Language%20-CSS-blue)
 ![](https://img.shields.io/badge/Language%20-JavaScript-yellow)
