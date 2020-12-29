@@ -5,14 +5,15 @@ I enjoy building websites that is responsive, interactive and easy to use. I hav
 
 ## Languages and Tools 
 
-![](https://img.shields.io/badge/Language%20-HTML-orange)
-![](https://img.shields.io/badge/Language%20-CSS-blue)
-![](https://img.shields.io/badge/Language%20-JavaScript-yellow)
-![](https://img.shields.io/badge/Library%20-jQuery-blue)
-![](https://img.shields.io/badge/Language%20-Sass-ff69b4)
-![](https://img.shields.io/badge/Code%20-VScode-blue)
-![](https://img.shields.io/badge/Tools%20-Git-orange)
-![](https://img.shields.io/badge/Shell%20-Bash-lightgrey)
+![](https://img.shields.io/badge/Language%20-HTML-orange?logo=HTML5)
+![](https://img.shields.io/badge/Language%20-CSS-blue?logo=CSS3)
+![](https://img.shields.io/badge/Language%20-JavaScript-yellow?logo=JavaScript)
+![](https://img.shields.io/badge/Library%20-jQuery-blue?logo=jQuery)
+![](https://img.shields.io/badge/Language%20-Sass-ff69b4?logo=Sass)
+![](https://img.shields.io/badge/Code%20-VScode-blue?logo=Visual-Studio-Code)
+![](https://img.shields.io/badge/Tools%20-Git-orange?logo=Git)
+![](https://img.shields.io/badge/Shell%20-Bash-lightgrey?logo=GNU-Bash)
+
 
 ## :open_file_folder: My Portfolio 
 
