@@ -16,5 +16,5 @@ I enjoy building websites that is responsive, interactive and easy to use. I hav
 
 ## :open_file_folder: My Portfolio 
 
-* www.rabingm.dev
+www.rabingm.dev
 
