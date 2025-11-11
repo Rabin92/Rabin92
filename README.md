@@ -1,7 +1,6 @@
 # Hello, I'm Rabin! :wave:
 
-A front-end developer who is passionate about web development. 
-I enjoy building websites that is responsive, interactive and easy to use. I have an eagerness to learn new technologies, develop my knowledge and build up my skills.  
+I’m a front end developer passionate about creating responsive, interactive, and user-friendly websites. I’m always eager to learn new technologies, expand my knowledge, and continue improving my skills.
 
 ## Languages and Tools 
 
