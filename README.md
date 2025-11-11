@@ -18,7 +18,6 @@ I’m a front end developer passionate about creating responsive, interactive, a
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/MAMP_logo.png/240px-MAMP_logo.png" alt="MAMP" width="50" height="50"/>
 </p>
 
-
 ## :open_file_folder: My Portfolio 
 
 www.rabingm.dev
