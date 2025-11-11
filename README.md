@@ -1,17 +1,17 @@
-<h1 align="center">👋 Hello, I'm <span style="color:#3FA9F5;">Rabin</span>!</h1>
+<h1 align="left">👋 Hello, I'm <span style="color:#3FA9F5;">Rabin</span>!</h1>
 
-<p align="center">
+<p align="left">
   🎨 Front-End Developer | 💻 WordPress Developer | 🌱 Lifelong Learner
 </p>
 
-<p align="center">
+<p align="left">
   I’m passionate about creating responsive, interactive, and user-friendly websites.  
   I love learning new technologies, improving my skills, and crafting clean, modern web experiences.
 </p>
 
 ## 🧠 Languages and Tools
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
