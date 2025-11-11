@@ -8,7 +8,6 @@ I enjoy building websites that is responsive, interactive and easy to use. I hav
 ![](https://img.shields.io/badge/Language%20-HTML-orange?style=plastic&logo=HTML5)
 ![](https://img.shields.io/badge/Language%20-CSS-blue?style=plastic&logo=CSS3)
 ![](https://img.shields.io/badge/Language%20-JavaScript-yellow?style=plastic&logo=JavaScript)
-![](https://img.shields.io/badge/Library%20-jQuery-blue?style=plastic&logo=jQuery)
 ![](https://img.shields.io/badge/Language%20-Sass-ff69b4?style=plastic&logo=Sass)
 ![](https://img.shields.io/badge/Code%20-VScode-blue?style=plastic&logo=Visual-Studio-Code)
 ![](https://img.shields.io/badge/Tools%20-Git-orange?style=plastic&logo=Git)
