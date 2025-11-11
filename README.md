@@ -1,6 +1,13 @@
-# Hello, I'm Rabin! :wave:
+<h1 align="center">👋 Hello, I'm <span style="color:#3FA9F5;">Rabin</span>!</h1>
 
-I’m a front end developer passionate about creating responsive, interactive, and user-friendly websites. I’m always eager to learn new technologies, expand my knowledge, and continue improving my skills.
+<p align="center">
+  🎨 Front-End Developer | 💻 WordPress Developer | 🌱 Lifelong Learner
+</p>
+
+<p align="center">
+  I’m passionate about creating responsive, interactive, and user-friendly websites.  
+  I love learning new technologies, improving my skills, and crafting clean, modern web experiences.
+</p>
 
 ## 🧠 Languages and Tools
 
