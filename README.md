@@ -11,7 +11,6 @@ I enjoy building websites that is responsive, interactive and easy to use. I hav
 ![](https://img.shields.io/badge/Language%20-Sass-ff69b4?style=plastic&logo=Sass)
 ![](https://img.shields.io/badge/Code%20-VScode-blue?style=plastic&logo=Visual-Studio-Code)
 ![](https://img.shields.io/badge/Tools%20-Git-orange?style=plastic&logo=Git)
-![](https://img.shields.io/badge/Shell%20-Bash-lightgrey?style=plastic&logo=GNU-Bash)
 
 ## :open_file_folder: My Portfolio 
 
