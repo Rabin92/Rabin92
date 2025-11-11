@@ -2,7 +2,7 @@
 
 I’m a front end developer passionate about creating responsive, interactive, and user-friendly websites. I’m always eager to learn new technologies, expand my knowledge, and continue improving my skills.
 
-## Languages and Tools 
+## 🧠 Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
@@ -15,7 +15,7 @@ I’m a front end developer passionate about creating responsive, interactive, a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/MAMP_Logo.png" alt="MAMP" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/MAMP_logo.png/240px-MAMP_logo.png" alt="MAMP" width="50" height="50"/>
 </p>
 
 
