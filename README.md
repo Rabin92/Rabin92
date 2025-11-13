@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hello, I'm <span style="color:#3FA9F5;">Rabin</span>!</h1>
-<p align="left">🎨 Front-End Developer | 💌 HTML Email Developer | ⚙️ WordPress Developer | 🌱 Lifelong Learner</p>
+<p align="left">🎨 Front-End Developer | 🌱 Lifelong Learner</p>
 <p align="left">I’m passionate about creating responsive, interactive, and user-friendly websites. I love learning new technologies, improving my skills, and crafting clean, modern web experiences.</p>
 
 <h2 align="left">🧠 Languages and Tools</h2>
